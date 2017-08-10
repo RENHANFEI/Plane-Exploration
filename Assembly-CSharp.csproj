@@ -78,6 +78,26 @@
      <Compile Include="Assets\Scripts\Q3\Player3.cs" />
      <Compile Include="Assets\Scripts\Q3\Projection3.cs" />
      <Compile Include="Assets\Scripts\Q3\Retry3.cs" />
+     <Compile Include="Assets\Scripts\Q4\Iso4.cs" />
+     <Compile Include="Assets\Scripts\Q4\Isometric4.cs" />
+     <Compile Include="Assets\Scripts\Q4\M4Right1.cs" />
+     <Compile Include="Assets\Scripts\Q4\M4Top1.cs" />
+     <Compile Include="Assets\Scripts\Q4\Model4.cs" />
+     <Compile Include="Assets\Scripts\Q4\Over4.cs" />
+     <Compile Include="Assets\Scripts\Q4\Player4.cs" />
+     <Compile Include="Assets\Scripts\Q4\Projection4.cs" />
+     <Compile Include="Assets\Scripts\Q4\Retry4.cs" />
+     <Compile Include="Assets\Scripts\Q5\Iso5.cs" />
+     <Compile Include="Assets\Scripts\Q5\Isometric5.cs" />
+     <Compile Include="Assets\Scripts\Q5\M5Curve1.cs" />
+     <Compile Include="Assets\Scripts\Q5\M5Front1.cs" />
+     <Compile Include="Assets\Scripts\Q5\M5Top1.cs" />
+     <Compile Include="Assets\Scripts\Q5\M5Top2.cs" />
+     <Compile Include="Assets\Scripts\Q5\Model5.cs" />
+     <Compile Include="Assets\Scripts\Q5\Over5.cs" />
+     <Compile Include="Assets\Scripts\Q5\Player5.cs" />
+     <Compile Include="Assets\Scripts\Q5\Projection5.cs" />
+     <Compile Include="Assets\Scripts\Q5\Retry5.cs" />
  <Reference Include="UnityEngine.Analytics">
  <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/UnityAnalytics/UnityEngine.Analytics.dll</HintPath>
  </Reference>
